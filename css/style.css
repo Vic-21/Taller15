@@ -146,6 +146,7 @@ section:hover section:hover section:hover section:hover {
     justify-content: center;
     align-items: center;
     height: 2300px;
+    width: 98%;
 }
 .action-button{
     padding: 15px;
